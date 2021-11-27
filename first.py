@@ -1,1 +1,1 @@
-print('ты думал, здесь что-то будет?')
+print('My first git-repo')
